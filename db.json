@@ -21,24 +21,24 @@
       "2020"
     ],
     "valores": [
-      5911,
-      5782,
-      5635,
-      5327,
-      5156,
-      4987,
-      5713,
-      5668,
-      5472,
-      5428,
-      5540,
-      5501,
-      5463,
-      5425,
-      5389,
-      5146,
-      5087,
-      5030
+      4761,
+      4804,
+      4873,
+      5018,
+      5098,
+      5178,
+      5378,
+      5447,
+      5504,
+      5562,
+      5815,
+      5885,
+      5953,
+      6019,
+      6084,
+      6181,
+      6257,
+      6332
     ],
     "faixas": [
       0.6,
@@ -65,197 +65,43 @@
     "ano": 2020,
     "valorAnterior": "-",
     "faixa": 0.6,
-    "valor": 5030,
+    "valor": 6332,
     "valorPosterior": 10189,
-    "dif": 5159,
+    "dif": 3857,
     "tendencia": "subir"
   },
   "censos": {
     "pop_residente": {
       "2000": {
-        "Total": 6099,
-        "Homens": 3054,
-        "Mulheres": 3045,
-        "Urbana": 4612,
-        "Rural": 1487
+        "Total": 4655,
+        "Homens": 2384,
+        "Mulheres": 2271,
+        "Urbana": 3587,
+        "Rural": 1068
       },
       "2010": {
-        "Total": 5516,
-        "Homens": 2730,
-        "Mulheres": 2786,
-        "Urbana": 4551,
-        "Rural": 965
+        "Total": 5443,
+        "Homens": 2757,
+        "Mulheres": 2686,
+        "Urbana": 4330,
+        "Rural": 1113
       }
     }
   },
   "repac": {
     "participantes": [
       {
-        "cod_membro": "142607",
-        "nome": "Ademir Natalino Ronchi",
-        "cargo": "Presidente",
-        "entidade": "Associação Dialeite",
+        "cod_membro": "142479",
+        "nome": "AMAURI SCHUROFF",
+        "cargo": "Presidente da Câmara",
+        "entidade": "Câmara Municipal de Amaporã",
         "email": [
-          "",
-          ""
-        ],
-        "telefone": [
-          {
-            "numero": "(44) 99151-8093",
-            "ramal": ""
-          },
-          {
-            "numero": "",
-            "ramal": ""
-          }
-        ],
-        "observador": false,
-        "ativo": true
-      },
-      {
-        "cod_membro": "142521",
-        "nome": "Eduardo",
-        "cargo": "Gerente",
-        "entidade": "Copagra",
-        "email": [
-          "",
-          ""
-        ],
-        "telefone": [
-          {
-            "numero": "(44) 99162-4280",
-            "ramal": ""
-          },
-          {
-            "numero": "(44) 3429-1251",
-            "ramal": ""
-          }
-        ],
-        "observador": false,
-        "ativo": false
-      },
-      {
-        "cod_membro": "145444",
-        "nome": "ELIEL DOS SANTOS CORREA",
-        "cargo": "VICE PREFEITO",
-        "entidade": "PREFEITURA MUNICIPAL",
-        "email": [
-          "5073.eliel@gmail.com",
+          "amauri_schuroff@hotmail.com",
           null
         ],
         "telefone": [
           {
-            "numero": "(44)99132-4432",
-            "ramal": null
-          },
-          {
-            "numero": null,
-            "ramal": null
-          }
-        ],
-        "observador": true,
-        "ativo": true
-      },
-      {
-        "cod_membro": "145438",
-        "nome": "GRASIELE CARRILHO DA SILVA DE ARAUJO",
-        "cargo": "AUXILIAR ADMINISTRATIVO",
-        "entidade": "SECRETARIA MUNICIPAL DE SAÚDE",
-        "email": [
-          "grasicarrilho@gmail.com",
-          null
-        ],
-        "telefone": [
-          {
-            "numero": "(44)99177-4842",
-            "ramal": null
-          },
-          {
-            "numero": null,
-            "ramal": null
-          }
-        ],
-        "observador": true,
-        "ativo": true
-      },
-      {
-        "cod_membro": "142606",
-        "nome": "Helenilton Gonçalves de Alencar",
-        "cargo": "Vice-presidente",
-        "entidade": "Associação Dialeite",
-        "email": [
-          "",
-          ""
-        ],
-        "telefone": [
-          {
-            "numero": "(44) 99145-7495",
-            "ramal": ""
-          },
-          {
-            "numero": "",
-            "ramal": ""
-          }
-        ],
-        "observador": false,
-        "ativo": true
-      },
-      {
-        "cod_membro": "142519",
-        "nome": "JOãO LOURENçO DA SILVA",
-        "cargo": "Presidente",
-        "entidade": "Câmara Municipal de Diamante do Norte",
-        "email": [
-          "camara@cmdiamantedonorte.pr.gov.br",
-          null
-        ],
-        "telefone": [
-          {
-            "numero": "(44) 99113-1292",
-            "ramal": null
-          },
-          {
-            "numero": "(44) 3429-1234",
-            "ramal": null
-          }
-        ],
-        "observador": false,
-        "ativo": true
-      },
-      {
-        "cod_membro": "142608",
-        "nome": "José Aparecido de Sá",
-        "cargo": "Operador de máquina 1",
-        "entidade": "Prefeitura Municipal",
-        "email": [
-          "",
-          ""
-        ],
-        "telefone": [
-          {
-            "numero": "(44) 99146-0164",
-            "ramal": ""
-          },
-          {
-            "numero": "",
-            "ramal": ""
-          }
-        ],
-        "observador": false,
-        "ativo": true
-      },
-      {
-        "cod_membro": "142628",
-        "nome": "JOSé CARLOS SANTANA",
-        "cargo": "Assist. Admistrativo",
-        "entidade": "Prefeitura Municipal",
-        "email": [
-          "zecaprefdte2016@gmail.com",
-          null
-        ],
-        "telefone": [
-          {
-            "numero": "(44) 99127-1001",
+            "numero": "(44) 99917-4611",
             "ramal": null
           },
           {
@@ -267,127 +113,17 @@
         "ativo": true
       },
       {
-        "cod_membro": "145428",
-        "nome": "JOSÉ EDUARDO CONTE",
-        "cargo": "ENFERMEIRO",
-        "entidade": "SECRETARIA MUNICIPAL DE SAÚDE",
+        "cod_membro": "142615",
+        "nome": "ANTôNIO MORAES CRUZ",
+        "cargo": "Secretário de Administração",
+        "entidade": "Prefeitura Municipal de Amaporã",
         "email": [
-          "du_conte@hotmail.com",
+          "prefeituraamapora@yahoo.com.br",
           null
         ],
         "telefone": [
           {
-            "numero": "(44)3429-1230",
-            "ramal": null
-          },
-          {
-            "numero": "(44)99119-4429",
-            "ramal": null
-          }
-        ],
-        "observador": true,
-        "ativo": true
-      },
-      {
-        "cod_membro": "145456",
-        "nome": "JULIANO CERVANTES PEREIRA DOS SANTOS",
-        "cargo": "SECRETÁRIO ADMINISTRATIVO",
-        "entidade": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO",
-        "email": [
-          "administracao@diamantedonorte.pr.gov.br",
-          null
-        ],
-        "telefone": [
-          {
-            "numero": "(44)3429-1319",
-            "ramal": null
-          },
-          {
-            "numero": null,
-            "ramal": null
-          }
-        ],
-        "observador": true,
-        "ativo": true
-      },
-      {
-        "cod_membro": "142627",
-        "nome": "Ketlen Aline Lima de Oliveira",
-        "cargo": "Estagiária",
-        "entidade": "CRAS",
-        "email": [
-          "",
-          ""
-        ],
-        "telefone": [
-          {
-            "numero": "(44) 3429-2337",
-            "ramal": ""
-          },
-          {
-            "numero": "",
-            "ramal": ""
-          }
-        ],
-        "observador": false,
-        "ativo": true
-      },
-      {
-        "cod_membro": "145468",
-        "nome": "LUZIA DA SILVA NAVARRO MARIANO",
-        "cargo": "SECRETÁRIA DE EDUCAÇÃO",
-        "entidade": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
-        "email": [
-          "luprofdte@hotmail.com",
-          null
-        ],
-        "telefone": [
-          {
-            "numero": "(44)99116-7515",
-            "ramal": null
-          },
-          {
-            "numero": "(44)3429-1752",
-            "ramal": null
-          }
-        ],
-        "observador": true,
-        "ativo": true
-      },
-      {
-        "cod_membro": "142518",
-        "nome": "Marcio Adriano Montemor",
-        "cargo": "secretário de agricultura",
-        "entidade": "Prefeitura Municipal de Diamante do Norte",
-        "email": [
-          "",
-          ""
-        ],
-        "telefone": [
-          {
-            "numero": "(44) 99125-5713",
-            "ramal": ""
-          },
-          {
-            "numero": "",
-            "ramal": ""
-          }
-        ],
-        "observador": false,
-        "ativo": true
-      },
-      {
-        "cod_membro": "142522",
-        "nome": "MARCOS PAULO",
-        "cargo": "Coordenador do Campus",
-        "entidade": "Universidade Estadual de Maringá",
-        "email": [
-          "sec-crn@uem.br",
-          null
-        ],
-        "telefone": [
-          {
-            "numero": "(44) 3429-8000",
+            "numero": "(44) 3437-8300",
             "ramal": null
           },
           {
@@ -396,32 +132,208 @@
           }
         ],
         "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142620",
+        "nome": "CLAUDINEI",
+        "cargo": "Pecuarista",
+        "entidade": "Pecuarista",
+        "email": [
+          "claudinei10colauto@yahoo.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 99112-1769",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142514",
+        "nome": "ÉRICA MORAES BONI",
+        "cargo": "Presidente do Sindicato",
+        "entidade": "Sindicato dos Trabalhadores Rurais de Amaporã",
+        "email": [
+          "ericamoraes38@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 98807-5405",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142478",
+        "nome": "FáBIO JOSé SOTORIVA",
+        "cargo": "Diretor da Agricultura",
+        "entidade": "Prefeitura Municipal de Amaporã",
+        "email": [
+          "sotoriva.agricultura@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 98804-4797",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142468",
+        "nome": "IVAN LUIZ DE GASPERIN",
+        "cargo": "Técnico",
+        "entidade": "EMATER",
+        "email": [
+          "ivangasperin@emater.pr.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 99135-4783",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "150148",
+        "nome": "LETICIA APARECIDA DA SILVA",
+        "cargo": "SECRETÁRIA DE ASSISTENCIA SOCIAL",
+        "entidade": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+        "email": [
+          "leticiaas121083@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)98848-1515",
+            "ramal": null
+          },
+          {
+            "numero": "(44)3437-1444",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142614",
+        "nome": "PAULO DE SOUZA",
+        "cargo": "Agente de Apoio",
+        "entidade": "ADAPAR",
+        "email": [
+          "paulosouza.01@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 3437-1240",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142570",
+        "nome": "RICARDO RODRIGUES MARTINS",
+        "cargo": "Vereador",
+        "entidade": "Câmara Municipal de Amaporã",
+        "email": [
+          "ricardo.rodriguesm@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 99162-0399",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "150173",
+        "nome": "SANDRA REGINA DOS SANTOS SILVA",
+        "cargo": "DIRETORA",
+        "entidade": "ESCOLA MUNICIPAL CECÍLIA MEIRELES",
+        "email": [
+          "sandrasantosr@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)98809-8561",
+            "ramal": null
+          },
+          {
+            "numero": "(44)3437-1766",
+            "ramal": null
+          }
+        ],
+        "observador": true,
         "ativo": true
       }
     ],
     "reunioes": [
       {
-        "data": "2019-09-05 14:00:00",
-        "cod_subarea": "4127304200",
+        "data": "2019-08-16 14:30:00",
+        "cod_subarea": "4113502200",
         "siape_presidente": "1548479",
-        "local": "CÂMARA MUNICIPAL",
+        "local": "PREFEITURA MUNICIPAL",
         "tipo": "primeira",
         "complemento": "",
         "status": "realizada",
         "participantes": [
-          "145428",
-          "145438",
-          "145444"
+          "142468",
+          "150148",
+          "150167"
         ]
       }
     ]
   },
   "info": {
-    "cod_mun": "4107108",
-    "nome_mun": "DIAMANTE DO NORTE",
+    "cod_mun": "4100905",
+    "nome_mun": "AMAPORÃ",
     "cod_agencia": "411840200",
     "nome_agencia": "PARANAVAÍ",
-    "data": "2020-10-26 09:24:57",
+    "data": "2020-10-26 09:24:26",
     "fonte": [
       "SIDRA/IBGE",
       "BDO/IBGE",
